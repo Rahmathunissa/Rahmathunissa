@@ -1,24 +1,32 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EFF6FF,100:DCEBFF&height=160&section=header&text=RAHMATH%20UNISSA&fontSize=42&fontColor=17365D&fontAlignY=45&desc=WEB%20DEVELOPMENT%20%7C%20AI%20%26%20DIGITAL%20SOLUTIONS&descSize=14&descAlignY=72&descColor=3269A8" width="100%" />
+<table width="100%" bgcolor="#F4F8FF">
+<tr>
+<td align="center" style="padding: 30px;">
 
-### Creating meaningful digital experiences with code and AI.
+<h1>👋 Hello, I'm Rahmath Unissa</h1>
 
+<h3>Building Digital Experiences with Code & AI</h3>
+
+<p>
 Computer Science Postgraduate · Web Developer · AI Explorer
-
-<br/>
+</p>
 
 <a href="https://rahmathunissa.github.io/WebDeveloperProjects/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://github.com/Rahmathunissa?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-172B4D?style=for-the-badge&logo=github&logoColor=white"/>
+
+<a href="https://github.com/Rahmathunissa">
+<img src="https://img.shields.io/badge/GitHub-17365D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 ## ✦ About Me
 
