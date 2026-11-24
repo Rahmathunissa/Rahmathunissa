@@ -1,126 +1,81 @@
 
 <div align="center">
 
-# RAHMATH UNISSA
+# Hello, I'm Rahmath Unissa 👋
 
 ### Computer Science | Web Development | AI & Automation
 
-**Building intelligent digital experiences through code, creativity and AI.**
+**Building smart digital solutions through code, creativity and AI.**
 
 <br/>
 
-<a href="https://rahmathunissa.github.io/WebDeveloperProjects/">
-  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://github.com/Rahmathunissa">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/Rahmathunissa?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECTS-172B4D?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://rahmathunissa.github.io/WebDeveloperProjects/">
+  <img src="https://img.shields.io/badge/My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## ✦ ABOUT ME
+## 👩‍💻 About Me
 
-I'm a Computer Science postgraduate with a background in software development and a growing focus on AI-powered applications and digital solutions.
+I'm a Computer Science postgraduate with an interest in building useful digital experiences and intelligent applications.
 
-I enjoy transforming ideas into practical applications, experimenting with emerging technologies and creating useful digital experiences.
+- 💻 Developing responsive websites and web applications.
+- 🤖 Exploring AI-powered applications and automation.
+- 🐍 Working with Python, Flask and JavaScript.
+- ⚛️ Building with React and modern frontend technologies.
+- 🌱 Continuously learning and creating practical projects.
+- 📍 Abu Dhabi, UAE.
 
-- 💻 Developing web applications and responsive interfaces
-- 🤖 Exploring AI applications, integrations and automation
-- 🐍 Working with Python, Flask and JavaScript
-- ⚛️ Building with React and modern frontend technologies
-- 🚀 Continuously developing practical projects and expanding my technical skills
-- 📍 Abu Dhabi, UAE
+## 🛠️ Tech Stack
 
----
-
-## ✦ WHAT I WORK WITH
-
-**FRONTEND**
+**Frontend**
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-**BACKEND & DATABASE**
+**Backend & Database**
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,flask,django,mysql,sqlite" />
 </p>
 
-**TOOLS & TECHNOLOGIES**
+**Development Tools**
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Tools-7C3AED?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
----
+## 🚀 Featured Projects
 
-## ✦ FEATURED WORK
-
-### 🌐 Web Development
-
-**WebDeveloperProjects**
-
-A growing collection of responsive websites, landing pages and interactive web applications.
-
-[Explore Portfolio →](https://rahmathunissa.github.io/WebDeveloperProjects/)
-
-[View Source Code →](https://github.com/Rahmathunissa/WebDeveloperProjects)
-
-### 🤖 AI & Intelligent Applications
-
-Exploring practical applications of AI, intelligent assistants, workflow automation and AI-powered digital tools.
-
-### ⚙️ Full-Stack Development
-
-Building applications with frontend interfaces, backend APIs, databases and practical business functionality.
-
----
-
-## ✦ MY DEVELOPMENT FOCUS
-
-| Area | Current Focus |
+| Project | Description |
 |---|---|
-| Web Development | Responsive websites and full-stack applications |
-| AI Applications | AI integration and intelligent tools |
-| Automation | Practical workflow automation |
-| Continuous Learning | Modern development technologies |
+| 🌐 Web Developer Projects | A collection of web design and development projects |
+| 🤖 NeuraFlow | AI-powered business enquiry platform |
+| 🏡 PropNexa | Smart property finder concept for the UAE |
+| 📋 TaskFlow | React-based productivity application |
+| 🛍️ LUMA | Modern e-commerce frontend experience |
+
+Explore more: [My GitHub Repositories](https://github.com/Rahmathunissa?tab=repositories)
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rahmathunissa&show_icons=true&theme=default&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmathunissa&layout=compact&theme=default&hide_border=true" height="160"/>
+</div>
 
 ---
-
-## ✦ LET'S CONNECT
 
 <div align="center">
 
-<a href="https://github.com/Rahmathunissa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### Let's Connect and Build Something Meaningful!
 
-<a href="https://rahmathunissa.github.io/WebDeveloperProjects/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Thanks for visiting my profile!**
-
-*Turning ideas into digital experiences, one project at a time.*
+**Thanks for visiting my profile!** ✨
 
 </div>
