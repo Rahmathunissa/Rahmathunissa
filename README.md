@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<table width="100%" bgcolor="#F4F8FF">
-<tr>
-<td align="center" style="padding: 30px;">
-
 <h1>👋 Hello, I'm Rahmath Unissa</h1>
 
 <h3>Building Digital Experiences with Code & AI</h3>
@@ -22,9 +18,6 @@ Computer Science Postgraduate · Web Developer · AI Explorer
 <img src="https://img.shields.io/badge/GitHub-17365D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</td>
-</tr>
-</table>
 
 </div>
 
